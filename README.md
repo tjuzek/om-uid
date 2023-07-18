@@ -40,7 +40,12 @@ Results from GPT-2 were also included and come out similarly.
 
 In response to a reviewer's suggestion, a table summarising the literature and different papers' perspectives on the UID hypothesis has been included, as part of this readme. It aims to provide an overview of what various papers have to say about UID. While creating a fair and comprehensive overview is challenging, this table can be adjusted if needed, as it is part of this repository and not a static element in a published paper.
 
-[PLACEHOLDER FOR THE TABLE]
+| Category        | Literature           | 
+| ------------- |:-------------:| 
+| Positive results (in supoprt of UID)      | Paper A1 <br /> Paper A2| 
+| Mixed results      | Paper B      | 
+| Inconclusive results | Paper C      | 
+| Negative results | Paper D      | 
 
 
 ### ...
