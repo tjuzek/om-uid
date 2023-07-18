@@ -8,8 +8,9 @@ This repository contains materials accompanying the Open Mind submission "Signal
 
 1) C-SALT.tsv
 2) C-SALT_uid_analysed.tsv
-3) Table X
-4) ...
+3) uids_gpt3.py
+4) Table X
+5) Additional plots
 
 ---
 
@@ -36,6 +37,12 @@ Results from GPT-2 were also included and come out similarly.
 
 
 
+### uids_gpt3.py
+
+This is the rapid development script used to do the analyses for the items. 
+
+
+
 ### Table X
 
 In response to a reviewer's suggestion, a table summarising the literature and different papers' perspectives on the UID hypothesis has been included, as part of this readme. It aims to provide an overview of what various papers have to say about UID. While creating a fair and comprehensive overview is challenging, this table can be adjusted if needed, as it is part of this repository and not a static element in a published paper.
@@ -48,11 +55,13 @@ In response to a reviewer's suggestion, a table summarising the literature and d
 | Negative results | Paper D      | 
 
 
-### ...
 
-...
+### Additional plots
+
+The plot in the paper is rather dense, so this repository includes additional plots for further clarification. 
 
 ---
+
 
 
 ## License
@@ -63,5 +72,5 @@ The materials in this repository are licensed under [license name]. Please see t
 
 ## Contact
 
-Todo
+[email]
 
