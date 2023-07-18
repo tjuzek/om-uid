@@ -24,7 +24,7 @@ Occurrences of the phenomenon, along with their hypothetical baseline counterpar
 Reversed occurrences where real baseline examples are transformed to include the phenomenon.
 For example, a real occurring cataphora sentence is "When she begins a new work, Freeman first sketches out an idea" while the constructed hypothetical counterpart is "When Freeman begins a new work, she first sketches out an idea". Similarly, a real occurrence of a sentence in canonical word order might be "And because Ben was the stronger and the faster, he always won" while the hypothetical counterpart containing a cataphora is "And because he was the stronger and the faster, Ben always won".
 
-The naturalness of these examples was evaluated by a native English speaker. 
+The naturalness of the constructed items was evaluated by a native English speaker. Items of reduced naturalness were still included as their inclusion favours the UID hypothesis, if anything. 
 
 However, please note that there is a selection bias in the corpus. Difficult-to-construct counterparts in either direction were skipped, such as cases where constructing a baseline counterpart for extrapositions was challenging or when an extraposition was not a viable option for a sentence in canonical word order. This practical approach ensures a focus on meaningful alternatives rather than including imbalanced ones. Including more of imbalanced alternatives might have tipped the scale slightly in favour of UID, but I would expect the effect on the alternative theory, low-information-content, be even larger.
 
