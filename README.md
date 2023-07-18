@@ -11,7 +11,7 @@ This repository contains materials accompanying the Open Mind submission "Signal
 3) Table X
 4) ...
 
-
+---
 
 ### C-SALT.tsv
 
@@ -45,6 +45,7 @@ In response to a reviewer's suggestion, a table summarising the literature and d
 
 ...
 
+---
 
 
 ## License
