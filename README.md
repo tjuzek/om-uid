@@ -41,7 +41,7 @@ Results from GPT-2 were also included and come out similarly.
 In response to a reviewer's suggestion, a table summarising the literature and different papers' perspectives on the UID hypothesis has been included. It aims to provide an overview of what various papers have to say about UID. While creating a fair and comprehensive overview is challenging, this table can be adjusted if needed, as it is part of this repository and not a static element in a published paper.
 
 
-### ...*
+### ...
 
 ...
 
@@ -50,7 +50,7 @@ In response to a reviewer's suggestion, a table summarising the literature and d
 
 ## License
 
-The materials in this repository are licensed under [license name/version]. Please see the LICENSE.md file for more information. 
+The materials in this repository are licensed under [license name]. Please see the LICENSE.md file for more information. 
 
 
 
