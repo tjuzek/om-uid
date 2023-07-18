@@ -39,7 +39,7 @@ Results from GPT-2 were also included and come out similarly.
 
 ### uids_gpt3.py
 
-This is the rapid development script used to do the analyses for the items. 
+This is the rapid development script used to do the analyses for the items. Note that surprisal values slightly fluctuate between executions. 
 
 
 
