@@ -15,7 +15,7 @@ This repository contains materials accompanying the Open Mind submission "Signal
 
 ### C-SALT.tsv
 
-The Corpus of Syntactic ALTernations (C-SALT). This corpus includes nine syntactic phenomena considered alternations in the linguistic literature. The items are sourced from various licensed materials (see LICENSE.md for details). The corpus has been pre-processed for parsing, involving the removal of special characters and final punctuation, which is not expected to have a negative impact on the results. Annotations within the corpus are mostly self-explanatory.
+The Corpus of Syntactic ALTernations (C-SALT) is attached as a separate file. This corpus includes nine syntactic phenomena considered alternations in the linguistic literature. The items are sourced from various licensed materials (see LICENSE.md for details). The corpus has been pre-processed for parsing, involving the removal of special characters and final punctuation, which is not expected to have a negative impact on the results. Annotations within the corpus are mostly self-explanatory.
 
 Critically, each construction in the corpus has two types:
 
@@ -38,7 +38,9 @@ Results from GPT-2 were also included and come out similarly.
 
 ### Table X
 
-In response to a reviewer's suggestion, a table summarising the literature and different papers' perspectives on the UID hypothesis has been included. It aims to provide an overview of what various papers have to say about UID. While creating a fair and comprehensive overview is challenging, this table can be adjusted if needed, as it is part of this repository and not a static element in a published paper.
+In response to a reviewer's suggestion, a table summarising the literature and different papers' perspectives on the UID hypothesis has been included, as part of this readme. It aims to provide an overview of what various papers have to say about UID. While creating a fair and comprehensive overview is challenging, this table can be adjusted if needed, as it is part of this repository and not a static element in a published paper.
+
+[PLACEHOLDER FOR THE TABLE]
 
 
 ### ...
