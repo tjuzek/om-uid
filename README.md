@@ -1,4 +1,4 @@
-# Supplementary materials for Signal smoothing and syntactic choices: A critical reflection on the UID hypothesis
+# Supplementary materials for 'Signal smoothing and syntactic choices: A critical reflection on the UID hypothesis'
 
 This repository contains materials accompanying the Open Mind submission "Signal smoothing and syntactic choices: A critical reflection on the UID hypothesis". 
 
