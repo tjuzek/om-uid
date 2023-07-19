@@ -32,7 +32,7 @@ However, please note that there is a selection bias in the corpus. From the pape
 
 ### C-SALT_uid_analysed.tsv
 
-This file contains the analysis of C-SALT using GPT-3 (text-davinci-003) to collect surprisal values. These values were used to test the different frameworks discussed in the Open Mind paper. Please be aware that the number of tokens is according to GPT3, which is typically 'no_words - 1', although there may be cases where it differs slightly. However, this difference should not distort the analyses.
+This file contains the analysis of C-SALT using GPT-3.5 (text-davinci-003, as per https://platform.openai.com/docs/models/gpt-3-5) to collect surprisal values. These values were used to test the different frameworks discussed in the Open Mind paper. Please be aware that the number of tokens is according to GPT-3.5, which is typically 'no_words - 1', although there may be cases where it differs slightly. However, this difference should not distort the analyses.
 Results from GPT-2 were also included and come out similarly. 
 
 
