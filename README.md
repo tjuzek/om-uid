@@ -60,13 +60,17 @@ In response to a reviewer's suggestion, a table summarising the literature and d
 
 The plot in the paper is rather dense, so this repository includes additional plots for further clarification. 
 
-Figure 3 from the paper with colour coding (taken from https://davidmathlogic.com/colorblind): 
+This is Figure 3 from the paper with colour coding (taken from https://davidmathlogic.com/colorblind): 
 
 ![fig3colour](https://github.com/arizus/uid/blob/main/alternationsresults3_colour.png?raw=true)
 
-Constructions highlighted for which the data comes from exclusively spoken corpora: 
+Here, constructions highlighted for which the data comes from exclusively spoken corpora: 
 
 ![fig3spoken](https://github.com/arizus/uid/blob/main/alternationsresults3_spoken.png?raw=true)
+
+In the following plot, surprisal values were extracted using GPT-2. While the F1-Scores exhibit slight variation, the UID variants continue to face challenges and are surpassed by the Low-IC hypothesis:
+
+![fig3spoken](https://github.com/arizus/uid/blob/main/alternationsresults_gpt2.png?raw=true)
 
 ---
 
