@@ -17,7 +17,7 @@ This repository contains materials accompanying the Open Mind submission "Signal
 
 ### 1) C-SALT.tsv
 
-The Corpus of Syntactic ALTernations (C-SALT) is attached as a separate file. This corpus includes nine syntactic phenomena considered alternations in the linguistic literature. The items are sourced from various licensed materials (see LICENSE.md for details). The corpus has been pre-processed for parsing, involving the removal of special characters and final punctuation. Annotations within the corpus are mostly self-explanatory.
+We decided to put the data in a corpus format and call it the Corpus of Syntactic ALTernations (C-SALT), which is attached as a separate file. This corpus includes nine syntactic phenomena considered alternations in the linguistic literature. The items are sourced from various licensed materials (see LICENSE.md for details). The corpus has been pre-processed for parsing, involving the removal of special characters and final punctuation. Annotations within the corpus are mostly self-explanatory.
 
 Critically, each construction in the corpus has two types:
 
