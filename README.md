@@ -38,7 +38,7 @@ Results from GPT-2 were also included and come out similarly.
 
 
 
-### 3) C-SALT_uid_analysed.tsv
+### 3) x_gpt3_results.ods
 
 This is a spreadsheet containing the overall scores of the analyses. 
 
