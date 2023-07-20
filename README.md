@@ -58,10 +58,10 @@ In response to a reviewer's suggestion, a table summarising the literature and d
 
 | Category        | Literature           | 
 | ------------- |:-------------:| 
-| Positive results (in supoprt of UID)      | Paper A1 <br /> Paper A2| 
-| Mixed results      | Paper B      | 
-| Inconclusive results | Paper C      | 
-| Negative results | Paper D      | 
+| **Positive results <br /> (in&#160;supoprt&#160;of&#160;UID)**      | Jaeger 2006; &ensp; Levy and Jaeger 2007; &ensp; Jaeger 2010; &ensp; Jaeger 2011; &ensp; Demberg et al. 2012; &ensp; Kurumada and Jaeger 2013; &ensp; Temperley and Gildea 2015; &ensp; Kurumada and Jaeger 2015 | 
+| **Mixed results**                                                   |  Horch and Reich 2016; &ensp; Yu et al. 2016 | 
+| **Inconclusive results**                                            | Juzek and Bizzoni 2021 | 
+| **Negative results**                                                | Jain et al. 2018; &ensp; Ranjan et al. 2020; &ensp; Zhan and Levy 2018 | 
 
 
 
