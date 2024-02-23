@@ -99,5 +99,5 @@ The license under which the materials in this repository fall is yet to be deter
 
 ## Contact
 
-[email]
+See [https://modlang.fsu.edu/person/tom-juzek](https://modlang.fsu.edu/person/tom-juzek) for email. 
 
