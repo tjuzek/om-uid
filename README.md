@@ -93,7 +93,7 @@ In the following plot, surprisal values were extracted using **GPT-2**. While th
 
 ## License
 
-The materials in this repository are licensed under [license name]. Please see the LICENSE.md file for more information. 
+The license under which the materials in this repository fall is yet to be determined. Please see the LICENSE.md file for more information. 
 
 
 
