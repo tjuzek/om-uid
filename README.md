@@ -6,8 +6,8 @@ This repository contains materials accompanying the Open Mind submission "Signal
 
 ## Components
 
-1) C-SALT.tsv
-2) C-SALT_uid_analysed.tsv
+1) C-SALT-mix.tsv
+2) C-SALT-mix_uid_analysed.tsv
 3) x_gpt3_results.ods
 4) uids_gpt3.py
 5) Table - Literature Overview
@@ -15,9 +15,9 @@ This repository contains materials accompanying the Open Mind submission "Signal
 
 ---
 
-### 1) C-SALT.tsv
+### 1) C-SALT-mix.tsv
 
-We decided to put the data in a corpus format and call it the Corpus of Syntactic ALTernations (C-SALT), which is attached as a separate file. This corpus includes nine syntactic phenomena considered alternations in the linguistic literature. The items are sourced from various licensed materials (see LICENSE.md for details). The corpus has been pre-processed for parsing, involving the removal of special characters and final punctuation. Annotations within the corpus are mostly self-explanatory.
+We decided to put the data in a corpus format and call it the Corpus of Syntactic ALTernations mix (C-SALT-mix; "mix", as this comes from both written and spoken language), which is attached as a separate file. This corpus includes nine syntactic phenomena considered alternations in the linguistic literature. The items are sourced from various licensed materials (see LICENSE.md for details). The corpus has been pre-processed for parsing, involving the removal of special characters and final punctuation. Annotations within the corpus are mostly self-explanatory.
 
 Critically, each construction in the corpus has two types:
 
@@ -30,9 +30,9 @@ The naturalness of the constructed items was evaluated by a native English speak
 
 
 
-### 2) C-SALT_uid_analysed.tsv
+### 2) C-SALT-mix_uid_analysed.tsv
 
-This file contains the analysis of C-SALT using GPT-3.5 (text-davinci-003, as per https://platform.openai.com/docs/models/gpt-3-5) to collect surprisal values. These values were used to test the different frameworks discussed in the Open Mind paper. Please be aware that the number of tokens is according to GPT-3.5, which is typically 'no_words - 1', although there may be cases where it differs slightly. Importantly, this should not distort the analyses as it is consistent throughout all items. 
+This file contains the analysis of C-SALT-mix using GPT-3.5 (text-davinci-003, as per https://platform.openai.com/docs/models/gpt-3-5) to collect surprisal values. These values were used to test the different frameworks discussed in the Open Mind paper. Please be aware that the number of tokens is according to GPT-3.5, which is typically 'no_words - 1', although there may be cases where it differs slightly. Importantly, this should not distort the analyses as it is consistent throughout all items. 
 
 Results from GPT-2 were also included and come out similarly. 
 
