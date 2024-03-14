@@ -1,6 +1,6 @@
 # Supplementary materials for 'Signal smoothing and syntactic choices: A critical reflection on the UID hypothesis'
 
-This repository contains materials accompanying the [Open Mind article]([url](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00125/120012/Signal-Smoothing-and-Syntactic-Choices-A-Critical)) "Signal smoothing and syntactic choices: A critical reflection on the UID hypothesis". 
+This repository contains materials accompanying the [Open Mind article](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00125/120012/Signal-Smoothing-and-Syntactic-Choices-A-Critical) "Signal smoothing and syntactic choices: A critical reflection on the UID hypothesis". 
 
 
 
