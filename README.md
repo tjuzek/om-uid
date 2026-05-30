@@ -117,3 +117,7 @@ If you use this code or data, a citation is appreciated (though not required; se
   doi       = {10.1162/opmi_a_00125}
 }
 ```
+
+## AI Assistance
+
+Repository polished with Claude Code.
