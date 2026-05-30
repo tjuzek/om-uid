@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this work, a citation is appreciated (though not required; see the licence)."
+title: "om-uid: C-SALT-mix corpus and analysis for 'Signal Smoothing and Syntactic Choices'"
+type: software
+authors:
+  - family-names: "Juzek"
+    given-names: "Tom S."
+    orcid: "https://orcid.org/0000-0002-3204-3879"
+repository-code: "https://github.com/tjuzek/om-uid"
+preferred-citation:
+  type: article
+  title: "Signal Smoothing and Syntactic Choices: A Critical Reflection on the UID Hypothesis"
+  authors:
+    - family-names: "Juzek"
+      given-names: "Tom S."
+      orcid: "https://orcid.org/0000-0002-3204-3879"
+  year: 2024
+  journal: "Open Mind"
+  publisher: "MIT Press"
+  volume: 8
+  start: 217
+  end: 234
+  doi: "10.1162/opmi_a_00125"
