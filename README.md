@@ -99,5 +99,21 @@ The license under which the materials in this repository fall is yet to be deter
 
 ## Contact
 
-See [https://modlang.fsu.edu/person/tom-juzek](https://modlang.fsu.edu/person/tom-juzek) for email. 
+See [https://modlang.fsu.edu/person/tom-juzek](https://modlang.fsu.edu/person/tom-juzek) for email.
 
+## Citation
+
+If you use this code or data, a citation is appreciated (though not required; see the licence).
+
+```bibtex
+@article{juzek-2024-signal,
+  title     = {Signal Smoothing and Syntactic Choices: A Critical Reflection on the UID Hypothesis},
+  author    = {Juzek, Tom S.},
+  journal   = {Open Mind},
+  publisher = {MIT Press},
+  volume    = {8},
+  pages     = {217--234},
+  year      = {2024},
+  doi       = {10.1162/opmi_a_00125}
+}
+```
