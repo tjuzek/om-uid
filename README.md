@@ -91,9 +91,12 @@ In the following plot, surprisal values were extracted using **GPT-2**. While th
 
 
 
-## License
+## Licence
 
-The license under which the materials in this repository fall is yet to be determined. Please see the LICENSE.md file for more information. 
+- **Code** (`scripts/`, `uids_gpt3.py`): MIT No Attribution (MIT-0). See [`LICENSE`](LICENSE). Use it freely, no attribution required.
+- **Data** (the C-SALT-mix files and the analysis): CC0 1.0 Universal (public domain dedication). See [`LICENSE-DATA`](LICENSE-DATA).
+
+Per-item provenance is recorded in the `source` and `via` columns; the naturally occurring items originate from third-party corpora and are included for research under fair use.
 
 
 
