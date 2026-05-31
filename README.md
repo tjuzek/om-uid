@@ -1,8 +1,23 @@
 # Supplementary materials for 'Signal smoothing and syntactic choices: A critical reflection on the UID hypothesis'
 
-This repository contains materials accompanying the [Open Mind article](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00125/120012/Signal-Smoothing-and-Syntactic-Choices-A-Critical) "Signal smoothing and syntactic choices: A critical reflection on the UID hypothesis". The published paper (Open Mind, MIT Press, CC BY 4.0) is included here as [`Signal-Smoothing-and-Syntactic-Choices.pdf`](Signal-Smoothing-and-Syntactic-Choices.pdf). 
+This repository contains materials accompanying the [Open Mind article](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00125/120012/Signal-Smoothing-and-Syntactic-Choices-A-Critical) "Signal smoothing and syntactic choices: A critical reflection on the UID hypothesis". The published paper (Open Mind, MIT Press, CC BY 4.0) is included here as [`Signal-Smoothing-and-Syntactic-Choices.pdf`](Signal-Smoothing-and-Syntactic-Choices.pdf).
 
+## Citation
 
+If you use this code or data, a citation is appreciated (though not required; see the licence).
+
+```bibtex
+@article{juzek-2024-signal,
+  title     = {Signal Smoothing and Syntactic Choices: A Critical Reflection on the UID Hypothesis},
+  author    = {Juzek, Tom S.},
+  journal   = {Open Mind},
+  publisher = {MIT Press},
+  volume    = {8},
+  pages     = {217--234},
+  year      = {2024},
+  doi       = {10.1162/opmi_a_00125}
+}
+```
 
 ## Components
 
@@ -89,8 +104,6 @@ In the following plot, surprisal values were extracted using **GPT-2**. While th
 
 ---
 
-
-
 ## Licence
 
 - **Code** (`scripts/`, `uids_gpt3.py`): MIT No Attribution (MIT-0). See [`LICENSE`](LICENSE). Use it freely, no attribution required.
@@ -100,27 +113,10 @@ Per-item provenance is recorded in the `source` and `via` columns; the naturally
 
 The included paper PDF remains under its own terms (CC BY 4.0; Open Mind, MIT Press), separate from the code and data licences above.
 
-## Contact
-
-See [https://modlang.fsu.edu/person/tom-juzek](https://modlang.fsu.edu/person/tom-juzek) for email.
-
-## Citation
-
-If you use this code or data, a citation is appreciated (though not required; see the licence).
-
-```bibtex
-@article{juzek-2024-signal,
-  title     = {Signal Smoothing and Syntactic Choices: A Critical Reflection on the UID Hypothesis},
-  author    = {Juzek, Tom S.},
-  journal   = {Open Mind},
-  publisher = {MIT Press},
-  volume    = {8},
-  pages     = {217--234},
-  year      = {2024},
-  doi       = {10.1162/opmi_a_00125}
-}
-```
-
 ## AI Assistance
 
 Repository polished with Claude Code.
+
+## Contact
+
+See [https://modlang.fsu.edu/person/tom-juzek](https://modlang.fsu.edu/person/tom-juzek) for email.
