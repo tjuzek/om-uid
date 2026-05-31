@@ -98,7 +98,7 @@ In the following plot, surprisal values were extracted using **GPT-2**. While th
 
 Per-item provenance is recorded in the `source` and `via` columns; the naturally occurring items originate from third-party corpora and are included for research under fair use.
 
-
+The included paper PDF remains under its own terms (CC BY 4.0; Open Mind, MIT Press), separate from the code and data licences above.
 
 ## Contact
 
